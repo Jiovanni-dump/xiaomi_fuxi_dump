@@ -1,0 +1,4 @@
+bootRE/boot.elf.xz
+odm/lib64/libxmi_high_dynamic_range_cdsp.so.xz
+recovery.img.xz
+product/priv-app/MiuiCamera/MiuiCamera.apk.xz
